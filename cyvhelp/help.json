@@ -1,9 +1,9 @@
 {
     "cyveconomy" : [
-	    "ratio"
+		"ratio"
 	],
 	"cyvgeneral" : [
-	    "cyvbot",
+		"cyvbot",
 		"legion",
 		"serveur",
 		"stop",
@@ -11,10 +11,10 @@
 		"waxord"
 	],
     "cyvfim" : [
-	    "fimlist"
+		"fimlist"
 	],
     "cyvgel" : [
-	    "asuna",
+		"asuna",
 		"darling",
 		"fbi",
 		"fearme",
@@ -26,30 +26,30 @@
 		"miyuki"
 	],
     "cyvrussian" : [
-	    "russet",
+		"russet",
 		"russian"
 	],
     "cyvscp" : [
-	    "scp",
+		"scp",
 		"scpfr"
 	],
     "cyvwasted" : [
-	    "allow",
+		"allow",
 		"disallow",
 		"someone",
 		"someoneban",
 		"wasted"
 	],
     "wikia" : [
-	    "wikia",
+		"wikia",
 		"wikipedia"
 	],
     "Google" : [
-	    "google",
+		"google",
 		"Ok google"
 	],
 	"Mod" : [
-	    "ban",
+		"ban",
 		"hackban",
 		"softban",
 		"filter",
