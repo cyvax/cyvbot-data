@@ -1,0 +1,29 @@
+{
+    "cyveconomy" : [
+	    "/help cyveconomy"
+	],
+    "cyvgeneral" : [
+	    "/help cyvgeneral"
+	],
+    "cyvfim" : [
+	    "/help fimlist"
+	],
+    "cyvgel" : [
+	    "/help cyvgel"
+	],
+    "cyvrussian" : [
+	    "/help cyvrussian"
+	],
+    "cyvscp" : [
+	    "/help cyvscp"
+	],
+    "cyvwasted" : [
+	    "/help cyvwasted"
+	],
+    "wikia" : [
+	    "/help wikia"
+	],
+    "Google" : [
+	    "/help google"
+	]
+}
