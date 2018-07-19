@@ -1,4 +1,16 @@
-{
+{    
+    "global" : [
+	    "cyveconomy",
+	    "cyvgeneral",
+	    "fimlist",
+	    "cyvgel",
+	    "cyvrussian",
+	    "cyvscp",
+	    "cyvwasted",
+	    "wikia",
+	    "google",
+	    "mod"
+	],
     "cyveconomy" : [
 	    "/help cyveconomy"
 	],
