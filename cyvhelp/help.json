@@ -64,7 +64,6 @@
 		"modset",
 		"mute",
 		"unmute",
-		"softban",
 		"cleanup"
 	]
 }
