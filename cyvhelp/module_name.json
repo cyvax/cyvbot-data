@@ -41,7 +41,7 @@
     "Google" : [
 	    "/help google"
 	],
-    "Mod" : [
-	    "/help Mod"
+    "mod" : [
+	    "/help mod"
 	]
 }
