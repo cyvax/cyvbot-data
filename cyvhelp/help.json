@@ -1,6 +1,6 @@
 {
     "version" : [
-		"0.0.1"
+		"0.0.2"
 	],	
     "cyveconomy" : [
 		"ratio"
@@ -15,7 +15,10 @@
 	],
     "cyvfim" : [
 		"fimlist",
-	        "fimlistfr"
+	        "fimlistfr",
+	        "fim1",
+	    	"fim2",
+	    	"fim3"
 	],
     "cyvgel" : [
 		"asuna",
