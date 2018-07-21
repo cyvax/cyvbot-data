@@ -2,7 +2,7 @@
     "global" : [
 	    "cyveconomy",
 	    "cyvgeneral",
-	    "fimlist",
+	    "cyvfim",
 	    "cyvgel",
 	    "cyvrussian",
 	    "cyvscp",
@@ -18,7 +18,7 @@
 	    "/help cyvgeneral"
 	],
     "cyvfim" : [
-	    "/help fimlist"
+	    "/help cyvfim"
 	],
     "cyvgel" : [
 	    "/help cyvgel"
