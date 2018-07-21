@@ -1,4 +1,7 @@
 {
+    "version" : [
+		"0.0.1"
+	],	
     "cyveconomy" : [
 		"ratio"
 	],
@@ -11,7 +14,8 @@
 		"waxord"
 	],
     "cyvfim" : [
-		"fimlist"
+		"fimlist",
+	        "fimlistfr"
 	],
     "cyvgel" : [
 		"asuna",
