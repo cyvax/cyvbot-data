@@ -1,6 +1,6 @@
 {
     "version" : [
-		"0.0.2"
+		"0.0.3"
 	],	
     "cyveconomy" : [
 		"ratio"
@@ -11,7 +11,8 @@
 		"serveur",
 		"stop",
 		"urss",
-		"waxord"
+		"waxord",
+		"facepalm"
 	],
     "cyvfim" : [
 		"fimlist",
@@ -45,7 +46,8 @@
 		"disallow",
 		"someone",
 		"someoneban",
-		"wasted"
+		"wasted",
+	        "love"
 	],
     "wikia" : [
 		"wikia",
